@@ -1,4 +1,4 @@
-package main.java.com.bankapp;
+package com.bankapp;
 
 import java.util.Random;
 
@@ -38,8 +38,6 @@ abstract class Account {
   public String getName() {
     return name;
   }
-
-  abstract public String getType();
 
   // Setters
   public void setName(String name) {

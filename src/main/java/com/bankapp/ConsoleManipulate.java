@@ -1,4 +1,4 @@
-package main.java.com.bankapp;
+package com.bankapp;
 
 public class ConsoleManipulate {
   // Class that will delete a certain number of lines in the console

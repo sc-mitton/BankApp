@@ -1,4 +1,4 @@
-package main.java.com.bankapp;
+package com.bankapp;
 
 public class CheckingAccount extends Account {
   private final String type = "checking";

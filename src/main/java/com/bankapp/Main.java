@@ -1,4 +1,4 @@
-package main.java.com.bankapp;
+package com.bankapp;
 
 // Driver program for the Bank application
 public class Main {
