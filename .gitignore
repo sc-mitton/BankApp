@@ -2,3 +2,7 @@
 .VSCodeCounter
 .gitignore
 .editorconfig
+/src/main/java/com/bankapp/LogExample.java
+/target/classes/com/bankapp/LogExample.class
+.DS_store
+LogExample.log
