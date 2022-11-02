@@ -16,11 +16,11 @@ Login Screen
 Registering  
 ![alt-text](https://github.com/spencermitton/BankApp/blob/master/readme-images/image2.png)
 
-Main menu
+Main menu  
 ![alt-text](https://github.com/spencermitton/BankApp/blob/master/readme-images/image3.png)
 
-Opening an account
+Opening an account  
 ![alt-text](https://github.com/spencermitton/BankApp/blob/master/readme-images/image4.png)
 
-Main menu with accounts listed
+Main menu with accounts listed  
 ![alt-text](https://github.com/spencermitton/BankApp/blob/master/readme-images/image5.png)
